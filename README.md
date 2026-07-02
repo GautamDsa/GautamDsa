@@ -32,4 +32,4 @@
   
  ---
 
-**Profile Views:** ![Visitor Count](https://profile-counter.glitch.me/GautamDsa/count.svg)
+👁️**Profile Views:** ![Visitor Count](https://profile-counter.glitch.me/GautamDsa/count.svg)
