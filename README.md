@@ -8,7 +8,7 @@
 ---
 
 ### 🧰 Tech Stack & Tools
-- **Languages:** C++ / Java / Python (Jo aap use karte ho, wo rakhein)
+- **Languages:** C++ / Python ;
 - **Version Control:** Git & GitHub
 
 ---
